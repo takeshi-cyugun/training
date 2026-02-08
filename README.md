@@ -1,2 +1,1 @@
-１．サーバー側で作成
-２．続いてサーバー側で作成
+Important: System Config
